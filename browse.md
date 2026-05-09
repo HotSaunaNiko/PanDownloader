@@ -14,3 +14,4 @@
 - [https___www_youtube_com_watch_v_UH47nkLtOcs (20260509_155617)](pages/youtube.com/https___www_youtube_com_watch_v_UH47nkLtOcs/20260509_155617/index.md) — 5 media files
 - [https___x_com_jannatkhah_ir_status_2052922309485150385_ref_src_twsrc_5Egoogle_7Ctwcamp_5Eserp_7Ctwgr (20260509_162022)](pages/x.com/https___x_com_jannatkhah_ir_status_2052922309485150385_ref_src_twsrc_5Egoogle_7Ctwcamp_5Eserp_7Ctwgr/20260509_162022/index.md) — 4 media files
 - [https___www_iranintl_com_fa_video_ott_0986000182f9402591265597e48daa4e (20260509_204350)](pages/iranintl.com/https___www_iranintl_com_fa_video_ott_0986000182f9402591265597e48daa4e/20260509_204350/index.md) — 0 media files
+- [https___www_youtube_com__StoicStick_videos (20260509_205142)](pages/youtube.com/https___www_youtube_com__StoicStick_videos/20260509_205142/index.md) — 5 media files
