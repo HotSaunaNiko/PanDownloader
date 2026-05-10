@@ -17,3 +17,4 @@
 - [https___www_youtube_com__StoicStick_videos (20260509_205142)](pages/youtube.com/https___www_youtube_com__StoicStick_videos/20260509_205142/index.md) — 5 media files
 - [https___open_spotify_com_artist_6OnTrZkRUZG6qciTR8mbYd (20260510_094305)](pages/open.spotify.com/https___open_spotify_com_artist_6OnTrZkRUZG6qciTR8mbYd/20260510_094305/index.md) — 3 media files
 - [https___www_aznews_tv__D8_AC_D8_B3_D8_AA_D8_AC_D9_88_DA_AF_D8_B1__DA_AF_D9_88_DA_AF_D9_84__D8_A8_D9_ (20260510_100738)](pages/aznews.tv/https___www_aznews_tv__D8_AC_D8_B3_D8_AA_D8_AC_D9_88_DA_AF_D8_B1__DA_AF_D9_88_DA_AF_D9_84__D8_A8_D9_/20260510_100738/index.md) — 14 media files
+- [https___freedom_gov_ (20260510_101040)](pages/freedom.gov/https___freedom_gov_/20260510_101040/index.md) — 0 media files
