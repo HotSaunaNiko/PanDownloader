@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `get.php` |
-| **Size** | 17.99 MB |
+| **Size** | 1.22 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
