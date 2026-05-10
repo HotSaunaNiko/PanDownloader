@@ -7,27 +7,24 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `get.php` |
-| **Total Size** | **3 parts** - **130.23 MB** |
+| **Size** | 2.75 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
 ---
 
-## Download Links
+## Download Link
 
-| # | File | Link |
-|---|------|------|
-| 1 | `get.z01` | [Download](https://github.com/HotSaunaNiko/PanDownloader/raw/main/downloads/get/get.z01) |
-| 2 | `get.z02` | [Download](https://github.com/HotSaunaNiko/PanDownloader/raw/main/downloads/get/get.z02) |
-| 3 | `get.zip` | [Download](https://github.com/HotSaunaNiko/PanDownloader/raw/main/downloads/get/get.zip) |
+| File | Link |
+|------|------|
+| `get.zip` | [Download](https://github.com/HotSaunaNiko/PanDownloader/raw/main/downloads/get/get.zip) |
 
 ---
 
 ## How to Extract
 
-1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
-2. **Open** `get.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-3. **Extract** — all parts combine automatically
+1. **Open** `get.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+2. **Extract** the file
 
 ---
 
