@@ -7,6 +7,7 @@
 - [images](./images)
 - [itd1585419](./itd1585419)
 - [maxresdefault](./maxresdefault)
+- [rust__programming_language_the_manga__guide](./rust__programming_language_the_manga__guide)
 
 ---
 
