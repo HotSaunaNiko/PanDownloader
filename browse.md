@@ -32,3 +32,4 @@
 - [https___open_spotify_com_album_4GED31fLYtn0OjcMZX2Qng (20260511_082102)](pages/open.spotify.com/https___open_spotify_com_album_4GED31fLYtn0OjcMZX2Qng/20260511_082102/index.md) — 3 media files
 - [https___open_spotify_com_album_3NJ3XeaEwnKlAF3A4mD9AR (20260511_082207)](pages/open.spotify.com/https___open_spotify_com_album_3NJ3XeaEwnKlAF3A4mD9AR/20260511_082207/index.md) — 3 media files
 - [https___open_spotify_com_album_5Fu0IpxCvGDaiORtQlsBAA (20260511_083423)](pages/open.spotify.com/https___open_spotify_com_album_5Fu0IpxCvGDaiORtQlsBAA/20260511_083423/index.md) — 3 media files
+- [https___open_spotify_com_album_2OYOoA54gkTsVibmb9vuiU (20260511_083558)](pages/open.spotify.com/https___open_spotify_com_album_2OYOoA54gkTsVibmb9vuiU/20260511_083558/index.md) — 3 media files
