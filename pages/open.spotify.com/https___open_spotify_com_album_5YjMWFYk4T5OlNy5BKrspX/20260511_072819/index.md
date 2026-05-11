@@ -1,0 +1,71 @@
+# Visited: https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX
+**Time:** Mon May 11 07:28:26 UTC 2026
+
+## Screenshot
+![Screenshot](./screenshot.png)
+
+## Raw HTML
+[page.html](./page.html)
+
+## Downloaded Media (3 files)
+## Downloaded Media Files
+
+- [favicon.0f31d2ea.ico](./media/favicon.0f31d2ea.ico) (14 KB)
+![favicon16.1c487bff.png](./media/favicon16.1c487bff.png)
+![favicon32.b64ecc03.png](./media/favicon32.b64ecc03.png)
+
+## Other Links
+- [/](/)
+- [/album/0CATyKLwtkSSfx83JuFa30](/album/0CATyKLwtkSSfx83JuFa30)
+- [/album/1Xbk0KZIk6gqEWuPglEVZm](/album/1Xbk0KZIk6gqEWuPglEVZm)
+- [/album/2I2pC9xJdms4lvLeQ66ahY](/album/2I2pC9xJdms4lvLeQ66ahY)
+- [/album/3Mrz2JSDKfvEwDCyI0xLLe](/album/3Mrz2JSDKfvEwDCyI0xLLe)
+- [/album/4fCEPMdnnNq7Uigzr8IXPp](/album/4fCEPMdnnNq7Uigzr8IXPp)
+- [/album/4geH6dH0NBBPwHwBDb26EB](/album/4geH6dH0NBBPwHwBDb26EB)
+- [/album/54k1WInO5C6f6uptXssZgP](/album/54k1WInO5C6f6uptXssZgP)
+- [/album/5YjMWFYk4T5OlNy5BKrspX](/album/5YjMWFYk4T5OlNy5BKrspX)
+- [/album/7M7X7jtPfIlgbgWx72hvOZ](/album/7M7X7jtPfIlgbgWx72hvOZ)
+- [/album/7lctUyqUeXZTWDBgEO2Dv0](/album/7lctUyqUeXZTWDBgEO2Dv0)
+- [/artist/6TBRY5HueSwE3yVgBIHcy2](/artist/6TBRY5HueSwE3yVgBIHcy2)
+- [/search](/search)
+- [/track/077JxDCa49S20cOweSEHqF](/track/077JxDCa49S20cOweSEHqF)
+- [/track/0nC9EdCOwAedhYiTvzI9Ij](/track/0nC9EdCOwAedhYiTvzI9Ij)
+- [/track/1Lp46ZxQTvzqod2vfMNp4V](/track/1Lp46ZxQTvzqod2vfMNp4V)
+- [/track/3W7WrhQ5aivtYAHxUqEGXR](/track/3W7WrhQ5aivtYAHxUqEGXR)
+- [/track/5pl3OZYsyAb9DYhnV8y0o0](/track/5pl3OZYsyAb9DYhnV8y0o0)
+- [/track/7vyradNdK9TtD265LOzdS2](/track/7vyradNdK9TtD265LOzdS2)
+- [/track/7ygPp81GhWM2DlLfaq5xZW](/track/7ygPp81GhWM2DlLfaq5xZW)
+- [android-app://com.spotify.music/spotify/album/5YjMWFYk4T5OlNy5BKrspX](android-app://com.spotify.music/spotify/album/5YjMWFYk4T5OlNy5BKrspX)
+- [https://api-partner.spotify.com](https://api-partner.spotify.com)
+- [https://api.spotify.com](https://api.spotify.com)
+- [https://apresolve.spotify.com](https://apresolve.spotify.com)
+- [https://clienttoken.spotify.com](https://clienttoken.spotify.com)
+- [https://daily-mix.scdn.co](https://daily-mix.scdn.co)
+- [https://encore.scdn.co/fonts/SpotifyMixMono-Regular-134eeb986fc0f94a9f0acb9cedaeb584.woff2](https://encore.scdn.co/fonts/SpotifyMixMono-Regular-134eeb986fc0f94a9f0acb9cedaeb584.woff2)
+- [https://encore.scdn.co/fonts/SpotifyMixUI-Bold-09c45a3a0ce9d2971e62cb26e97760fb.woff2](https://encore.scdn.co/fonts/SpotifyMixUI-Bold-09c45a3a0ce9d2971e62cb26e97760fb.woff2)
+- [https://encore.scdn.co/fonts/SpotifyMixUI-Regular-76c92fb1a35c462f73429fa8865163eb.woff2](https://encore.scdn.co/fonts/SpotifyMixUI-Regular-76c92fb1a35c462f73429fa8865163eb.woff2)
+- [https://encore.scdn.co/fonts/SpotifyMixUITitleVariable-08bab3354d40f74e5177917b5ae80894.woff2](https://encore.scdn.co/fonts/SpotifyMixUITitleVariable-08bab3354d40f74e5177917b5ae80894.woff2)
+- [https://exp.wg.spotify.com](https://exp.wg.spotify.com)
+- [https://gue1-dealer.g2.spotify.com](https://gue1-dealer.g2.spotify.com)
+- [https://gue1-spclient.spotify.com](https://gue1-spclient.spotify.com)
+- [https://i.scdn.co](https://i.scdn.co)
+- [https://i.scdn.co/image/ab6761610000f1782f2de55b4ff2396bb513da4d](https://i.scdn.co/image/ab6761610000f1782f2de55b4ff2396bb513da4d)
+- [https://i.scdn.co/image/ab67616d00001e02075c18f97e526274e7954623](https://i.scdn.co/image/ab67616d00001e02075c18f97e526274e7954623)
+- [https://i.scdn.co/image/ab67616d00001e022d7b139e07abee988d261000](https://i.scdn.co/image/ab67616d00001e022d7b139e07abee988d261000)
+- [https://i.scdn.co/image/ab67616d00001e024fefbc3de8db5b08ff967f9c](https://i.scdn.co/image/ab67616d00001e024fefbc3de8db5b08ff967f9c)
+- [https://i.scdn.co/image/ab67616d00001e027a1fc69e87c48b2a610cc3f1](https://i.scdn.co/image/ab67616d00001e027a1fc69e87c48b2a610cc3f1)
+- [https://i.scdn.co/image/ab67616d00001e027ab99675be895e5dfa1c9f82](https://i.scdn.co/image/ab67616d00001e027ab99675be895e5dfa1c9f82)
+- [https://i.scdn.co/image/ab67616d00001e0284f7b16c2b5585164160d3ca](https://i.scdn.co/image/ab67616d00001e0284f7b16c2b5585164160d3ca)
+- [https://i.scdn.co/image/ab67616d00001e02978b7bb2956e869b26d22073](https://i.scdn.co/image/ab67616d00001e02978b7bb2956e869b26d22073)
+- [https://i.scdn.co/image/ab67616d00001e029b6270abddbbc7f6ecc4ed84](https://i.scdn.co/image/ab67616d00001e029b6270abddbbc7f6ecc4ed84)
+- [https://i.scdn.co/image/ab67616d00001e02aa6c51a5d908b247e35851d3](https://i.scdn.co/image/ab67616d00001e02aa6c51a5d908b247e35851d3)
+- [https://i.scdn.co/image/ab67616d00001e02dedbf0ca74aab5ad9556de58](https://i.scdn.co/image/ab67616d00001e02dedbf0ca74aab5ad9556de58)
+- [https://lineup-images.scdn.co](https://lineup-images.scdn.co)
+- [https://mosaic.scdn.co](https://mosaic.scdn.co)
+- [https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX](https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX)
+- [https://open.spotify.com/intl-ar/album/5YjMWFYk4T5OlNy5BKrspX](https://open.spotify.com/intl-ar/album/5YjMWFYk4T5OlNy5BKrspX)
+- [https://open.spotify.com/intl-de/album/5YjMWFYk4T5OlNy5BKrspX](https://open.spotify.com/intl-de/album/5YjMWFYk4T5OlNy5BKrspX)
+
+## Stats
+- Links: 74
+- Media: 3
