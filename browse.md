@@ -23,3 +23,4 @@
 - [https___open_spotify_com_track_4gyBJmmbesasLE2uWZrej1 (20260511_072114)](pages/open.spotify.com/https___open_spotify_com_track_4gyBJmmbesasLE2uWZrej1/20260511_072114/index.md) — 3 media files
 - [https___www_instagram_com_p_DVx4m99jMje_ (20260511_072244)](pages/instagram.com/https___www_instagram_com_p_DVx4m99jMje_/20260511_072244/index.md) — 0 media files
 - [https___open_spotify_com_album_5YjMWFYk4T5OlNy5BKrspX (20260511_072819)](pages/open.spotify.com/https___open_spotify_com_album_5YjMWFYk4T5OlNy5BKrspX/20260511_072819/index.md) — 3 media files
+- [https___open_spotify_com_artist_2gXRm46OQBjXZB5oBzBjP2 (20260511_073458)](pages/open.spotify.com/https___open_spotify_com_artist_2gXRm46OQBjXZB5oBzBjP2/20260511_073458/index.md) — 3 media files
