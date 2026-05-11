@@ -25,3 +25,4 @@
 - [https___open_spotify_com_album_5YjMWFYk4T5OlNy5BKrspX (20260511_072819)](pages/open.spotify.com/https___open_spotify_com_album_5YjMWFYk4T5OlNy5BKrspX/20260511_072819/index.md) — 3 media files
 - [https___open_spotify_com_artist_2gXRm46OQBjXZB5oBzBjP2 (20260511_073458)](pages/open.spotify.com/https___open_spotify_com_artist_2gXRm46OQBjXZB5oBzBjP2/20260511_073458/index.md) — 3 media files
 - [https___open_spotify_com_artist_5e1LtaEddZkGx57OPtYON5 (20260511_074448)](pages/open.spotify.com/https___open_spotify_com_artist_5e1LtaEddZkGx57OPtYON5/20260511_074448/index.md) — 3 media files
+- [https___open_spotify_com_artist_2Cg6deMrtFvlI7joR6K5IC (20260511_074859)](pages/open.spotify.com/https___open_spotify_com_artist_2Cg6deMrtFvlI7joR6K5IC/20260511_074859/index.md) — 3 media files
